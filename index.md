@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<h1 style="color: darkgreen">John Jacobi Personal Page</h1>
+# John Jacobi Personal Page
+{:style="color: darkgreen"}
 
 [Donate to help (best way).](https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start) You can also donate through [CashApp](https://cash.app/$JNSTRY) or [PayPal/Venmo](https://www.paypal.com/donate/?hosted_button_id=FVTEH32ATXKN8).
 {:style="background-color: lightgrey; border: 1px solid; padding: .3em"}
