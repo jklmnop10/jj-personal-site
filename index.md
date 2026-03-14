@@ -4,7 +4,9 @@ layout: default
 
 <h1 style="color: darkgreen">John Jacobi Personal Page</h1>
 
-<p style="background-color: lightgrey; border: 1px solid; padding: .3em"><a href="https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start">Donate to help (best way).</a> You can also donate through <a href="https://cash.app/$JNSTRY">CashApp<a/> or <a href="https://www.paypal.com/donate/?hosted_button_id=FVTEH32ATXKN8">PayPal/Venmo</a>.</p>
+<div style="background-color: lightgrey; border: 1px solid; padding: .3em">
+<p><a href="https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start">Donate to help (best way).</a> You can also donate through <a href="https://cash.app/$JNSTRY">CashApp<a/> or <a href="https://www.paypal.com/donate/?hosted_button_id=FVTEH32ATXKN8">PayPal/Venmo</a>.</p>
+</div>
 
 I've been mind controlled by aliens and the government starting around
 the middle of 2018, about six months before an article came out about me
@@ -75,5 +77,6 @@ major psychological and physical health damage. Please
 [donate](https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start)
 to help me regain direction of my life.
 
-<p style="background-color: lightgrey; border: 1px solid; padding: .3em"><a href="https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start">Donate to help (best way).</a> You can also donate through <a href="https://cash.app/$JNSTRY">CashApp<a/> or <a href="https://www.paypal.com/donate/?hosted_button_id=FVTEH32ATXKN8">PayPal/Venmo</a>.</p>
-
+<div style="background-color: lightgrey; border: 1px solid; padding: .3em">
+<p><a href="https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start">Donate to help (best way).</a> You can also donate through <a href="https://cash.app/$JNSTRY">CashApp<a/> or <a href="https://www.paypal.com/donate/?hosted_button_id=FVTEH32ATXKN8">PayPal/Venmo</a>.</p>
+</div>
