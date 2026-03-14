@@ -1,11 +1,25 @@
 ---
+title:John Jacobi Personal Page
 layout: default
 ---
 
 # John Jacobi Personal Page
 {:style="color: darkgreen"}
 
+<div markdown="1">
 [Donate to help (best way).](https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start) You can also donate through [CashApp](https://cash.app/$JNSTRY) or [PayPal/Venmo](https://www.paypal.com/donate/?hosted_button_id=FVTEH32ATXKN8).
+
+Note: I had a non-profit trust created for
+sharing material related to these experiences
+(.g., my journals 2018-2026) and contextualizing
+them in relation to broader knowledge about UFOs
+and esoteric secrets. If you are interested in
+getting more of the story, what the aliens told
+or did to me, please visit the 
+[trust page](/trust). 
+Donations to the trust are only used to share or
+document these experiences and are tax-deductible.
+</div>
 {:style="background-color: lightgrey; border: 1px solid; padding: .3em"}
 
 I've been mind controlled by aliens and the government starting around
@@ -77,5 +91,18 @@ major psychological and physical health damage. Please
 [donate](https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start)
 to help me regain direction of my life.
 
+<div markdown="1">
 [Donate to help (best way).](https://connect.vestwell.com/gifting/calable/-xpmtOMaiUKrPLz_v7MKrg/start) You can also donate through [CashApp](https://cash.app/$JNSTRY) or [PayPal/Venmo](https://www.paypal.com/donate/?hosted_button_id=FVTEH32ATXKN8).
+
+Note: I had a non-profit trust created for
+sharing material related to these experiences
+(.g., my journals 2018-2026) and contextualizing
+them in relation to broader knowledge about UFOs
+and esoteric secrets. If you are interested in
+getting more of the story, what the aliens told
+or did to me, please visit the 
+[trust page](/trust). 
+Donations to the trust are only used to share or
+document these experiences and are tax-deductible.
+</div>
 {:style="background-color: lightgrey; border: 1px solid; padding: .3em"}
